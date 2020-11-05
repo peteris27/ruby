@@ -1,0 +1,20 @@
+nav{
+  text-align: right;
+}
+
+main{
+  background-color: lightyellow;
+}
+
+.info {
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+  background: lightgray;
+}
+
+nav a:hover{
+  background-color: gray;
+}
